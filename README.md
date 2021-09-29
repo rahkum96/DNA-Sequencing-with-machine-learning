@@ -1,5 +1,5 @@
 # DNA-Sequencing-with-machine-learning
- Approach: We will apply a classification model that can predict a gene's function based on the DNA sequence.
+We will apply a classification model that can predict a gene's function based on the DNA sequence.
  
  
  ![image](https://user-images.githubusercontent.com/86415241/135297830-0663e68f-d750-4265-8f9a-4bf671cc1cf9.png)
